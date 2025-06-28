@@ -1,33 +1,30 @@
 {
-  "categories": [
-    { "id": 1, "name": "Data Collection" },
-    { "id": 2, "name": "Consumer Rights" },
-    { "id": 3, "name": "Data Security" },
-    { "id": 4, "name": "Compliance" }
+  "Data Collection": [
+    "How effectively have safeguards been implemented for collecting {data_types}?",
+    "Could your organization improve the process of obtaining consent before collecting {data_types}?",
+    "Are documented procedures consistently followed when handling {data_types} during collection?",
+    "Does your organization maintain comprehensive records of collected {data_types}?",
+    "Should data minimization practices be more rigorously applied when collecting {data_types}?"
   ],
-  "questions": [
-    { "id": 1, "category_id": 1, "template": "How effectively have safeguards been implemented for collecting {data_types}?", "placeholder": "data_types" },
-    { "id": 2, "category_id": 1, "template": "Could your organization improve the process of obtaining consent before collecting {data_types}?", "placeholder": "data_types" },
-    { "id": 3, "category_id": 1, "template": "Are documented procedures consistently followed when handling {data_types} during collection?", "placeholder": "data_types" },
-    { "id": 4, "category_id": 1, "template": "Does your organization maintain comprehensive records of collected {data_types}?", "placeholder": "data_types" },
-    { "id": 5, "category_id": 1, "template": "Should data minimization practices be more rigorously applied when collecting {data_types}?", "placeholder": "data_types" },
-
-    { "id": 6, "category_id": 2, "template": "What measures exist to manage {rights} requests formally?", "placeholder": "rights" },
-    { "id": 7, "category_id": 2, "template": "How thoroughly is identity verification conducted for all {rights} requests?", "placeholder": "rights" },
-    { "id": 8, "category_id": 2, "template": "Could the tracking system for fulfilling {rights} requests be enhanced?", "placeholder": "rights" },
-    { "id": 9, "category_id": 2, "template": "Are employees adequately trained on requirements relating to {rights}?", "placeholder": "rights" },
-    { "id": 10, "category_id": 2, "template": "How well are protections enforced to prevent discrimination against consumers exercising {rights}?", "placeholder": "rights" },
-    { "id": 11, "category_id": 2, "template": "Is the mechanism for submitting {rights} requests clearly accessible and user-friendly?", "placeholder": "rights" },
-
-    { "id": 12, "category_id": 3, "template": "To what extent have security measures been implemented to protect stored {data_types}?", "placeholder": "data_types" },
-    { "id": 13, "category_id": 3, "template": "How consistently are {security} controls tested and updated across your organization?", "placeholder": "security" },
-    { "id": 14, "category_id": 3, "template": "What is the current level of implementation of processes to detect breaches involving {data_types}?", "placeholder": "data_types" },
-    { "id": 15, "category_id": 3, "template": "To what degree have additional {security} protections been applied to sensitive {data_types}?", "placeholder": "security, data_types" },
-    { "id": 16, "category_id": 3, "template": "How fully are {security} standards enforced during the transmission of {data_types}?", "placeholder": "security, data_types" },
-
-    { "id": 17, "category_id": 4, "template": "To what extent has the organization implemented measures to demonstrate compliance with {requirements}?", "placeholder": "requirements" },
-    { "id": 18, "category_id": 4, "template": "How well are documents maintained to support compliance with {requirements}?", "placeholder": "requirements" },
-    { "id": 19, "category_id": 4, "template": "To what degree are {processes} regularly reviewed to ensure continued compliance with {requirements}?", "placeholder": "processes, requirements" },
-    { "id": 20, "category_id": 4, "template": "How fully has training been delivered to ensure staff understand {requirements}?", "placeholder": "requirements" }
+  "Consumer Rights": [
+    "What measures exist to manage {rights} requests formally?",
+    "How thoroughly is identity verification conducted for all {rights} requests?",
+    "Could the tracking system for fulfilling {rights} requests be enhanced?",
+    "Are employees adequately trained on requirements relating to {rights}?",
+    "How well are protections enforced to prevent discrimination against consumers exercising {rights}?",
+    "Is the mechanism for submitting {rights} requests clearly accessible and user-friendly?"
+  ],
+  "Data Security": [
+    "To what extent have security measures been implemented to protect stored {data_types}?",
+    "How consistently are {security} controls tested and updated across your organization?",
+    "What is the current level of implementation of processes to detect breaches involving {data_types}?",
+    "To what degree have additional {security} protections been applied to sensitive {data_types}?",
+    "How fully are {security} standards enforced during the transmission of {data_types}?"
+  ],
+  "Compliance": [
+    "To what extent has the organization implemented measures to demonstrate compliance with {requirements}?",
+    "How well are documents maintained to support compliance with {requirements}?",
+    "To what degree are {processes} regularly reviewed to ensure continued compliance with {requirements}?",
+    "How fully has training been delivered to ensure staff understand {requirements}?"
   ]
 }
