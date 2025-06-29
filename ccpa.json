@@ -1,30 +1,27 @@
 {
-    "Data Collection": [
-        "How effectively have safeguards been implemented for collecting {data_types}?",
-        "Could your organization improve the process of obtaining consent before collecting {data_types}?",
-        "Are documented procedures consistently followed when handling {data_types} during collection?",
-        "Does your organization maintain comprehensive records of collected {data_types}?",
-        "Should data minimization practices be more rigorously applied when collecting {data_types}?"
-    ],
-    "Consumer Rights": [
-        "What measures exist to manage {rights} requests formally?",
-        "How thoroughly is identity verification conducted for all {rights} requests?",
-        "Could the tracking system for fulfilling {rights} requests be enhanced?",
-        "Are employees adequately trained on requirements relating to {rights}?",
-        "How well are protections enforced to prevent discrimination against consumers exercising {rights}?",
-        "Is the mechanism for submitting {rights} requests clearly accessible and user-friendly?"
-    ],
-    "Data Security": [
-        "To what extent have security measures been implemented to protect stored {data_types}?",
-        "How consistently are {security} controls tested and updated across your organization?",
-        "What is the current level of implementation of processes to detect breaches involving {data_types}?",
-        "To what degree have additional {security} protections been applied to sensitive {data_types}?",
-        "How fully are {security} standards enforced during the transmission of {data_types}?"
-    ],
-    "Compliance": [
-        "To what extent has the organization implemented measures to demonstrate compliance with {requirements}?",
-        "How well are documents maintained to support compliance with {requirements}?",
-        "To what degree are {processes} regularly reviewed to ensure continued compliance with {requirements}?",
-        "How fully has training been delivered to ensure staff understand {requirements}?"
-    ]
+  "Data_Collection": [
+    "How effectively have safeguards been implemented for collecting patients' medical information?",
+    "Could your organization improve the process of obtaining consent before collecting The Data Broker Registry?",
+    "Are documented procedures consistently followed when handling general consumer information during collection?",
+    "Does your organization maintain comprehensive records of collected payment card information?",
+    "Should data minimization practices be more rigorously applied when collecting an information security program?"
+  ],
+  "Consumer_Rights": [
+    "What measures exist to manage your rights requests formally?",
+    "How thoroughly is identity verification conducted for all “California Privacy Rights requests?",
+    "Could the tracking system for fulfilling B. RIGHT requests be enhanced?",
+    "Are employees adequately trained on requirements relating to their privacy rights?",
+    "How well are protections enforced to prevent discrimination against consumers exercising Civil rights issues?",
+    "Is the mechanism for submitting publicity rights requests clearly accessible and user-friendly?"
+  ],
+  "Data_Security": [
+    "To what extent have security measures been implemented to protect stored this information?",
+    "How consistently are its security controls tested and updated across your organization?",
+    "What is the current level of implementation of processes to detect breaches involving enhanced data security training?"
+  ],
+  "Compliance": [
+    "To what extent has the organization implemented measures to demonstrate compliance with all express statutory requirements?",
+    "How well are documents maintained to support compliance with a business’s privacy policy?",
+    "How fully has training been delivered to ensure staff understand the CCPA’s requirements?"
+  ]
 }
