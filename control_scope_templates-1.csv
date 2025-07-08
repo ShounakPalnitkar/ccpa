@@ -1,18 +1,18 @@
 question_template
-How effectively have safeguards been implemented for {control}?
-Could your organization improve the process of obtaining consent for {control}?
-Are documented procedures consistently followed when managing {control}?
-Does your organization maintain comprehensive records related to {control}?
-Should {control} practices be more rigorously applied?
-What measures exist to manage {control} formally?
-How thoroughly is {control} conducted for all individuals?
-Could the tracking system for fulfilling {control} be enhanced?
-Are employees adequately trained on requirements relating to {control}?
-How well are protections enforced to prevent discrimination involving {control}?
-Is the mechanism for submitting {control} clearly accessible and user-friendly?
-To what extent have security measures been implemented to protect {control}?
-How consistently are {control} tested and updated ?
-What is the current level of implementation of processes to detect issues involving {control}?
-To what extent has the organization implemented measures to demonstrate compliance with {control}?
-How well are documents maintained to support compliance with {control}?
-How fully has training been delivered to ensure staff understand {control}?
+To what extent has our organization implemented safeguards for {control}, which states: "{content}"?
+What opportunities exist to strengthen consent management processes in the context of {control}, which advises: "{content}"?
+How consistently does our organization follow documented procedures for {control}, especially given that it requires: "{content}"?
+How comprehensive are our records documenting compliance with {control}, whose core guidance is: "{content}"?
+Does our implementation of {control}, which recommends: "{content}", meet the required standards of rigor?
+What formal governance measures are in place to oversee {control}, considering its requirement to: "{content}"?
+How thoroughly does our organization apply protections as outlined in {control}, which directs: "{content}"?
+What improvements could we make to systems supporting {control}, given its defined objective to: "{content}"?
+How effectively have employees been trained on the requirements of {control}, particularly around: "{content}"?
+What mechanisms are in place to ensure non-discrimination in the application of {control}, which emphasizes: "{content}"?
+How accessible and user-friendly is our interface for {control}, taking into account that it requires: "{content}"?
+What security measures protect our processes aligned with {control}, which seeks to: "{content}"?
+How regularly are procedures for {control} reviewed and updated, given its recommendation to: "{content}"?
+What processes are in place to detect gaps in compliance with {control}, which is intended to: "{content}"?
+How does our organization demonstrate adherence to {control}, which includes the directive: "{content}"?
+To what extent does our documentation support verification of {control} compliance, especially considering its expectation to: "{content}"?
+How comprehensively does our training program ensure staff understanding of {control}, which is defined as: "{content}"?
